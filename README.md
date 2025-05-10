@@ -85,7 +85,3 @@ Cross-platform version of the decryption tool for wider compatibility.
 **Specialization**: Repair and Operation of Marine Radio Equipment
 
 ---
-
-<p align="center">
-  🧪 Built with ❤️ for software quality · Always learning · Open to collaboration
-</p>
