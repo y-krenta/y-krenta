@@ -53,15 +53,15 @@ Cross-platform version of the decryption tool for wider compatibility.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=51scorp&show_icons=true&theme=radical&hide_rank=false&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=y-krenta&show_icons=true&theme=radical&hide_rank=false&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=51scorp&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=y-krenta&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=51scorp&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y-krenta&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
 </p>
 
 ---
