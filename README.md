@@ -12,32 +12,30 @@
     <img src="https://leetcard.jacoblin.cool/51scorp?theme=dark&font=Merienda%20One&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
+
 ---
 
 ## 🧑‍💻 About Me
 
-🎯 I’m a QA Engineer with 3+ years of hands-on experience in **software quality assurance**, test automation, and process improvement.  
-🔧 I specialize in **web, desktop, and mobile testing**, covering both functional and non-functional aspects.  
-🧪 I build testing processes from scratch, automate tests, and optimize workflows across development pipelines.  
-🎓 I also enjoy mentoring junior QA engineers and sharing knowledge with the testing community.
+🎯 I’m a QA Engineer with 3+ years of experience in software quality assurance and test automation.  
+🔧 I specialize in testing web, desktop, and mobile apps, including functional and security testing.  
+🧪 I build automation frameworks from scratch and optimize testing processes.  
+👨‍🏫 I mentor junior engineers and share my knowledge with the testing community.
 
 ---
 
 ## 🛠️ Skills
 
-**Languages & Scripting**  
+**Languages**  
 `Python` · `TypeScript` · `Bash`
 
-**Test Frameworks**  
-`Playwright` · `Selenium` · `Pytest`
+**Frameworks & Tools**  
+`Playwright` · `Selenium` · `Pytest` · `Postman`
 
-**API Testing**  
-`REST` · `gRPC` · `Postman`
-
-**CI/CD & Infrastructure**  
+**CI/CD & Environments**  
 `GitLab CI` · `Docker` · `Linux (Astra, Debian, Ubuntu)` · `Ansible`
 
-**Tools & Utilities**  
+**Other Tools**  
 `Allure` · `Git` · `SQL` · `ADB`
 
 ---
@@ -45,10 +43,26 @@
 ## 🚀 Projects
 
 🔐 **AES-256 Remote Decryption (Python)**  
-A CLI tool for securely decrypting AES-256 data on remote targets. Designed for pentesting and secure QA workflows.
+Tool for decrypting AES-256 encrypted data remotely. Built for security testing purposes.
 
 🔐 **AES-256 Remote Decryption (TypeScript)**  
-Cross-platform version of the tool with modern TypeScript structure. Portable and adaptable to various runtime environments.
+Cross-platform version of the decryption tool for wider compatibility.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=51scorp&show_icons=true&theme=radical&hide_rank=false&count_private=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=51scorp&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=51scorp&layout=compact&theme=radical&langs_count=10" alt="Top Languages"/>
+</p>
 
 ---
 
@@ -62,16 +76,16 @@ Cross-platform version of the tool with modern TypeScript structure. Portable an
 
 ## 🎓 Education
 
-- **2019** — Saint Petersburg State University of Aerospace Instrumentation  
-  *Institute of Radio Engineering, Electronics, and Communications*  
-  **Specialization**: Technical Operation of Transport Radio Equipment (Engineer)
+**2019** — Saint Petersburg State University of Aerospace Instrumentation  
+*Institute of Radio Engineering, Electronics, and Communications*  
+**Specialization**: Technical Operation of Transport Radio Equipment (Engineer)
 
-- **2013** — Murmansk State Technical University  
-  *Faculty of Radio Engineering*  
-  **Specialization**: Repair and Operation of Marine Radio Equipment
+**2013** — Murmansk State Technical University  
+*Faculty of Radio Engineering*  
+**Specialization**: Repair and Operation of Marine Radio Equipment
 
 ---
 
 <p align="center">
-  🧪 Built with ❤️ for testing excellence · Updated regularly · Contributions welcome!
+  🧪 Built with ❤️ for software quality · Always learning · Open to collaboration
 </p>
