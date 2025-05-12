@@ -2,17 +2,16 @@
 <h3 align="center">QA Fullstack Engineer | Test Automation Specialist</h3>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/y.krenta">
-    <img src="https://www.codewars.com/users/y.krenta/badges/large" alt="Codewars Badge"/>
+  <a href="https://leetcode.com/y-krenta/">
+    <img src="https://leetcard.jacoblin.cool/y-krenta?theme=dark&font=Battambang&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/51scorp/">
-    <img src="https://leetcard.jacoblin.cool/51scorp?theme=dark&font=Merienda%20One&ext=heatmap" alt="LeetCode Stats"/>
+  <a href="https://www.codewars.com/users/y.krenta">
+    <img src="https://www.codewars.com/users/y.krenta/badges/large" alt="Codewars Badge"/>
   </a>
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
