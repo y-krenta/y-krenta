@@ -70,7 +70,6 @@ Cross-platform version of the decryption tool for wider compatibility.
 
 - 📧 **Email**: krentawork@gmail.com  
 - 💬 **Telegram**: [@ykrenta](https://t.me/ykrenta)  
-- 📱 **Phone**: +7 (977) 906-23-39  
 
 ---
 
