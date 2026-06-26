@@ -1,6 +1,5 @@
-```markdown
 <h1 align="center">Hi there, I'm Yuri Krenta 👋</h1>
-<h3 align="center">Golang Developer | Backend & Infrastructure Engineer</h3>
+<h3 align="center">Go Developer</h3>
 
 <p align="center">
   <a href="https://leetcode.com/y-krenta/">
@@ -16,19 +15,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-🎯 I'm a Golang Developer focused on building reliable backend services and developer tools.
+I'm a **Go Developer** with an engineering background in software quality and automation.
 
-⚙️ I enjoy designing high-performance applications, CLI utilities, and scalable infrastructure.
+I build backend services, developer tools, and infrastructure software with Go. I'm passionate about clean architecture, performance optimization, and open-source development.
 
-🚀 Passionate about clean architecture, concurrency, performance optimization, and open-source development.
-
-🌱 Currently deepening my expertise in distributed systems and the Go ecosystem.
+Currently exploring distributed systems, concurrency, cloud-native technologies, and the Go ecosystem.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
 ### Languages
 
@@ -36,46 +33,60 @@
 
 ### Backend
 
-`REST API` · `SQL` · `Concurrency` · `JSON`
+`REST API` · `gRPC` · `Protobuf` · `SQL` · `JSON`
 
-### Infrastructure
+### Databases
 
-`Docker` · `GitLab CI` · `Linux` · `Ansible` · `Git`
+`ClickHouse` · `PostgreSQL`
+
+### Infrastructure & DevOps
+
+`Docker` · `GitLab CI` · `GitHub Actions` · `Linux` · `Ansible` · `etcd`
 
 ### Testing
 
-`Go Testing` · `Pytest` · `Playwright` · `Selenium` · `Postman`
+`testing` · `Integration Testing` · `Benchmarking`
 
-### Other
+### Tools
 
-`Allure` · `ADB`
+`Git` · `Allure`
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
-### 🐹 Allure 3 Docker Service (Go)
+### 🐹 allure3-docker-service-go
 
-Open-source service for generating and serving Allure 3 reports in Docker environments.
+An open-source Docker service for generating and serving **Allure Report 3**.
 
-### ⚡ Go Performance Benchmarks
+**Current focus:**
 
-Tools for benchmarking and profiling Go applications.
+* HTTP API
+* JWT authentication
+* TLS support
+* Multi-architecture Docker images
+* Developer-friendly deployment
 
-### 🔐 AES-256 Remote Decryption
+---
 
-Secure remote decryption tools implemented in Python and TypeScript.
+## 🌱 Currently Learning
+
+* Go concurrency
+* Distributed systems
+* Kafka
+* Kubernetes
+* Prometheus & Grafana
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=y-krenta&show_icons=true&theme=radical&hide_rank=false&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=y-krenta&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=y-krenta&theme=radical&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=y-krenta&theme=radical" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -84,24 +95,21 @@ Secure remote decryption tools implemented in Python and TypeScript.
 
 ---
 
-## 📬 Contact Me
+## 📬 Contact
 
-- 📧 **Email:** krentawork@gmail.com
-- 💬 **Telegram:** [@ykrenta](https://t.me/ykrenta)
+* 📧 **Email:** [krentawork@gmail.com](mailto:krentawork@gmail.com)
+* 💬 **Telegram:** [@ykrenta](https://t.me/ykrenta)
 
 ---
 
 ## 🎓 Education
 
-**2019** — Saint Petersburg State University of Aerospace Instrumentation
+**Saint Petersburg State University of Aerospace Instrumentation (SUAI)**
+*Institute of Radio Engineering, Electronics and Communications*
+**Bachelor's Degree in Technical Operation of Transport Radio Equipment**
+2015–2019
 
-*Institute of Radio Engineering, Electronics, and Communications*
-
-**Specialization:** Technical Operation of Transport Radio Equipment (Engineer)
-
-**2013** — Murmansk State Technical University
-
+**Murmansk State Technical University**
 *Faculty of Radio Engineering*
-
-**Specialization:** Repair and Operation of Marine Radio Equipment
-```
+**College Degree in Maintenance and Operation of Marine Radio Equipment**
+2009–2013
