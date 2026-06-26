@@ -1,5 +1,6 @@
+```markdown
 <h1 align="center">Hi there, I'm Yuri Krenta 👋</h1>
-<h3 align="center">QA Fullstack Engineer | Test Automation Specialist</h3>
+<h3 align="center">Golang Developer | Backend & Infrastructure Engineer</h3>
 
 <p align="center">
   <a href="https://leetcode.com/y-krenta/">
@@ -17,36 +18,53 @@
 
 ## 🧑‍💻 About Me
 
-🎯 I’m a QA Engineer with 3+ years of experience in software quality assurance and test automation.  
-🔧 I specialize in testing web, desktop, and mobile apps, including functional and security testing.  
-🧪 I build automation frameworks from scratch and optimize testing processes.  
-👨‍🏫 I mentor junior engineers and share my knowledge with the testing community.
+🎯 I'm a Golang Developer focused on building reliable backend services and developer tools.
+
+⚙️ I enjoy designing high-performance applications, CLI utilities, and scalable infrastructure.
+
+🚀 Passionate about clean architecture, concurrency, performance optimization, and open-source development.
+
+🌱 Currently deepening my expertise in distributed systems and the Go ecosystem.
 
 ---
 
 ## 🛠️ Skills
 
-**Languages**  
-`Python` · `TypeScript` · `Bash`
+### Languages
 
-**Frameworks & Tools**  
-`Playwright` · `Selenium` · `Pytest` · `Postman`
+`Go` · `Python` · `TypeScript` · `Bash`
 
-**CI/CD & Environments**  
-`GitLab CI` · `Docker` · `Linux (Astra, Debian, Ubuntu)` · `Ansible`
+### Backend
 
-**Other Tools**  
-`Allure` · `Git` · `SQL` · `ADB`
+`REST API` · `SQL` · `Concurrency` · `JSON`
+
+### Infrastructure
+
+`Docker` · `GitLab CI` · `Linux` · `Ansible` · `Git`
+
+### Testing
+
+`Go Testing` · `Pytest` · `Playwright` · `Selenium` · `Postman`
+
+### Other
+
+`Allure` · `ADB`
 
 ---
 
 ## 🚀 Projects
 
-🔐 **AES-256 Remote Decryption (Python)**  
-Tool for decrypting AES-256 encrypted data remotely. Built for security testing purposes.
+### 🐹 Allure 3 Docker Service (Go)
 
-🔐 **AES-256 Remote Decryption (TypeScript)**  
-Cross-platform version of the decryption tool for wider compatibility.
+Open-source service for generating and serving Allure 3 reports in Docker environments.
+
+### ⚡ Go Performance Benchmarks
+
+Tools for benchmarking and profiling Go applications.
+
+### 🔐 AES-256 Remote Decryption
+
+Secure remote decryption tools implemented in Python and TypeScript.
 
 ---
 
@@ -68,19 +86,22 @@ Cross-platform version of the decryption tool for wider compatibility.
 
 ## 📬 Contact Me
 
-- 📧 **Email**: krentawork@gmail.com  
-- 💬 **Telegram**: [@ykrenta](https://t.me/ykrenta)  
+- 📧 **Email:** krentawork@gmail.com
+- 💬 **Telegram:** [@ykrenta](https://t.me/ykrenta)
 
 ---
 
 ## 🎓 Education
 
-**2019** — Saint Petersburg State University of Aerospace Instrumentation  
-*Institute of Radio Engineering, Electronics, and Communications*  
-**Specialization**: Technical Operation of Transport Radio Equipment (Engineer)
+**2019** — Saint Petersburg State University of Aerospace Instrumentation
 
-**2013** — Murmansk State Technical University  
-*Faculty of Radio Engineering*  
-**Specialization**: Repair and Operation of Marine Radio Equipment
+*Institute of Radio Engineering, Electronics, and Communications*
 
----
+**Specialization:** Technical Operation of Transport Radio Equipment (Engineer)
+
+**2013** — Murmansk State Technical University
+
+*Faculty of Radio Engineering*
+
+**Specialization:** Repair and Operation of Marine Radio Equipment
+```
